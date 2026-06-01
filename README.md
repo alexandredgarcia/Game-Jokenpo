@@ -68,7 +68,7 @@ KEN
 PÔ
  PERDI! Eu joguei TESOURA. VOCÊ GANHOU!!!!
 
-***
+<hr>
 
 🚀 **Possíveis melhorias:**
 📊 Sistema de placar (vitórias/derrotas/empates).
@@ -81,12 +81,12 @@ PÔ
 
 🌐 Versão web utilizando Flask ou Django.
 
----
+<hr>
 
 👨‍💻 **Sobre o desenvolvedor**
 Projeto criado por um aspirante a desenvolvedor Python, com foco em evolução contínua, boas práticas e construção de portfólio.
 
----
+<hr>
 
 🧑‍💻 Alexandre Dias Garcia 🔗 https://www.linkedin.com/in/alexandred-garcia
 
