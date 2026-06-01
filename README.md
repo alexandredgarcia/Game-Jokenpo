@@ -68,7 +68,7 @@ KEN
 PÔ
  PERDI! Eu joguei TESOURA. VOCÊ GANHOU!!!!
 
----
+***
 
 🚀 **Possíveis melhorias:**
 📊 Sistema de placar (vitórias/derrotas/empates).
