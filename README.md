@@ -55,7 +55,7 @@ cd jokenpo-python
 
 Execute o jogo:
 
-python main.py
+jokenpo.py
 
 🖥️ Exemplo de execução
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
@@ -81,11 +81,8 @@ PÔ
 🌐 Versão web futuramente (Flask ou Django)
 👨‍💻 Sobre o desenvolvedor
 
-Projeto criado por um estudante de desenvolvimento Python, com foco em evolução contínua e construção de portfólio.
+Projeto criado por um aspirante à desenvolvimento Python, com foco em evolução contínua e construção de portfólio.
 
 ⭐ Objetivo
 
 Este projeto faz parte da minha jornada de aprendizado em programação, com foco em lógica, boas práticas e construção de portfólio no GitHub.
-
-
----
