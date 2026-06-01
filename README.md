@@ -64,7 +64,9 @@ KEN
 PÔ
  PERDI! Eu joguei TESOURA. VOCÊ GANHOU!!!!
 
- ##🚀 **Possíveis melhorias:**
+---
+
+🚀 **Possíveis melhorias:**
 📊 Sistema de placar (vitórias/derrotas/empates).
 
 🔁 Opção de jogar novamente sem reiniciar o script.
@@ -77,7 +79,7 @@ PÔ
 
 ---
 
-##👨‍💻 **Sobre o desenvolvedor**
+👨‍💻 **Sobre o desenvolvedor**
 Projeto criado por um aspirante a desenvolvedor Python, com foco em evolução contínua, boas práticas e construção de portfólio.
 
 ---
