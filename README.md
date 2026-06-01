@@ -39,3 +39,52 @@ Certifique-se de ter o **Python 3** instalado em sua máquina.
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/seu-usuario/jokenpo-python.git](https://github.com/seu-usuario/jokenpo-python.git)
+
+   Acesse a pasta do projeto:
+
+2. Bash
+   cd jokenpo-python
+   
+3. Execute o jogo:
+   Bash
+   python jokenpo.py
+
+   
+🖥️ Exemplo de execução
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+           GAME JOKENPÔ
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+COMANDOS:
+    PEDRA: [0]
+    PAPEL: [1]
+  TESOURA: [2]
+
+Qual é a sua opção? 0
+JO
+KEN
+PÔ
+ PERDI! Eu joguei TESOURA. VOCÊ GANHOU!!!!
+
+ ---
+ 
+🚀 Possíveis melhorias
+📊 Sistema de placar (vitórias/derrotas/empates).
+
+🔁 Opção de jogar novamente sem reiniciar o script.
+
+🏆 Modo “melhor de 3”.
+
+🖼 Interface gráfica utilizando Tkinter ou PyGame.
+
+🌐 Versão web utilizando Flask ou Django.
+
+---
+
+👨‍💻 Sobre o desenvolvedor
+Projeto criado por um aspirante a desenvolvedor Python, com foco em evolução contínua, boas práticas e construção de portfólio.
+
+🧑‍💻 Alexandre Dias Garcia 🔗 https://www.linkedin.com/in/alexandred-garcia
+
+📧 alexandredgarcia23@gmail.com
