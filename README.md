@@ -49,6 +49,7 @@ Certifique-se de ter o **Python 3** instalado em sua máquina.
    python jokenpo.py
 
 ---
+```text
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
            GAME JOKENPÔ
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
