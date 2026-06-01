@@ -56,6 +56,7 @@ cd jokenpo-python
 Execute o jogo:
 
 python main.py
+
 🖥️ Exemplo de execução
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
            GAME JOKENPÔ
