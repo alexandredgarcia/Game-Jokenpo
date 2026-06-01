@@ -67,6 +67,7 @@ JO
 KEN
 PÔ
  PERDI! Eu joguei TESOURA. VOCÊ GANHOU!!!!
+```
 
 <hr>
 
