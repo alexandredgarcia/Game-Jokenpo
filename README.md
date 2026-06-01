@@ -72,6 +72,7 @@ PÔ
 <hr>
 
 🚀 **Possíveis melhorias:**
+
 📊 Sistema de placar (vitórias/derrotas/empates).
 
 🔁 Opção de jogar novamente sem reiniciar o script.
