@@ -1,10 +1,14 @@
 # ✊✋✌️ JOKENPÔ - Jogo em Python
 
 🚀 **Um jogo clássico recriado em Python** 🎯 *Projeto focado em lógica de programação e prática de desenvolvimento*
+
 ---
+
 ## 🎮 Sobre o projeto
 
 Este projeto simula o famoso jogo Pedra, Papel e Tesoura (Jokenpô) diretamente no terminal. O jogador enfrenta o computador, que faz escolhas aleatórias, e o sistema define o vencedor com base nas regras tradicionais do jogo.
+
+---
 
 ## 🧠 Demonstração de habilidades
 
@@ -16,7 +20,9 @@ Neste projeto simples, apliquei conceitos fundamentais de Python:
 * ✔ **Funções organizadas:** Código modular e reutilizável.
 * ✔ **Uso de bibliotecas padrão:** `random` (para as jogadas da máquina) e `time` (para dar efeito de pausa).
 * ✔ **Interação com usuário:** Input e output via terminal.
+
 ---
+
 ## 🕹️ Como jogar
 
 No terminal, o jogo solicitará que você escolha uma das opções:
@@ -25,7 +31,9 @@ No terminal, o jogo solicitará que você escolha uma das opções:
 * `2` → Tesoura ✌️
 
 O computador fará sua jogada automaticamente e o resultado será exibido na tela.
+
 ---
+
 ## ▶️ Como executar
 
 Certifique-se de ter o **Python 3** instalado em sua máquina.
@@ -41,7 +49,9 @@ Certifique-se de ter o **Python 3** instalado em sua máquina.
 3. Execute o jogo:
    ```Bash
    python jokenpo.py
+
 ---
+
 ```text
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
            GAME JOKENPÔ
@@ -57,7 +67,9 @@ JO
 KEN
 PÔ
  PERDI! Eu joguei TESOURA. VOCÊ GANHOU!!!!
+
 ---
+
 🚀 **Possíveis melhorias:**
 📊 Sistema de placar (vitórias/derrotas/empates).
 
@@ -68,10 +80,14 @@ PÔ
 🖼 Interface gráfica utilizando Tkinter ou PyGame.
 
 🌐 Versão web utilizando Flask ou Django.
+
 ---
+
 👨‍💻 **Sobre o desenvolvedor**
 Projeto criado por um aspirante a desenvolvedor Python, com foco em evolução contínua, boas práticas e construção de portfólio.
+
 ---
+
 🧑‍💻 Alexandre Dias Garcia 🔗 https://www.linkedin.com/in/alexandred-garcia
 
 📧 alexandredgarcia23@gmail.com
